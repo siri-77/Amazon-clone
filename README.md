@@ -1,4 +1,4 @@
 # Amazon-clone using HTML and CSS
 <br>
-https://amazon-clonebysiri.netlify.app/
+https://siri-77.github.io/Amazon-clone/
 
